@@ -1,0 +1,16 @@
+[gd_resource type="Resource" script_class="Card" load_steps=2 format=3 uid="uid://doc47fwvq8rkq"]
+
+[ext_resource type="Script" path="res://card.gd" id="1_x8cra"]
+
+[resource]
+script = ExtResource("1_x8cra")
+card_name = "Lame Corprus"
+Attribute = 1
+Type = 0
+Subtype = 24
+power = 5
+health = 6
+magicka = 6
+text = ""
+Rarity = 0
+Set = 2

@@ -1,0 +1,16 @@
+[gd_resource type="Resource" script_class="Card" load_steps=2 format=3 uid="uid://0qdrcdxpdfh6"]
+
+[ext_resource type="Script" path="res://card.gd" id="1_f1v57"]
+
+[resource]
+script = ExtResource("1_f1v57")
+card_name = "Vigilant of Stendarr"
+Attribute = 1
+Type = 0
+Subtype = 2
+power = 5
+health = 2
+magicka = 3
+text = ""
+Rarity = 0
+Set = 1
