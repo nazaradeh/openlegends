@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://c1qosj3m2tjb4"]
+
+[ext_resource type="Script" path="res://Scripts/vigilant_of_stendarr.gd" id="1_k0kye"]
+
+[node name="Vigilant of Stendarr" type="Node2D"]
+script = ExtResource("1_k0kye")
+
+[node name="CardFront" type="Sprite2D" parent="."]
