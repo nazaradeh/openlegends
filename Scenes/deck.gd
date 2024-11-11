@@ -1,4 +1,6 @@
 extends Node
 
 func _on_end_turn_pressed() -> void:
-	pass # Replace with function body.
+	var scene = load("res://Scenes/vigilant_of_stendarr.tscn")
+	var card = scene.instantiate()
+	add_child(card)
