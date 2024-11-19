@@ -1,7 +1,7 @@
 [gd_resource type="Resource" script_class="Card" load_steps=3 format=3 uid="uid://0qdrcdxpdfh6"]
 
 [ext_resource type="Script" path="res://Scripts/card_class.gd" id="1_f1v57"]
-[ext_resource type="Texture2D" uid="uid://pj2t2hnbh4v5" path="res://Textures/Cards/LG-card-Vigilant_of_Stendarr.png" id="1_hyyau"]
+[ext_resource type="Texture2D" uid="uid://c3dtwwrqhbcyi" path="res://Textures/Cards/Vigilant_of_Stendarr.png" id="1_tkpbk"]
 
 [resource]
 script = ExtResource("1_f1v57")
@@ -16,4 +16,4 @@ text = ""
 is_unique = false
 Rarity = 0
 Set = 1
-card_front = ExtResource("1_hyyau")
+card_front = ExtResource("1_tkpbk")

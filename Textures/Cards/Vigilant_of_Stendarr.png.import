@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://pj2t2hnbh4v5"
-path="res://.godot/imported/LG-card-Vigilant_of_Stendarr.png-0e384907471fe1a05adaef8ecc596638.ctex"
+uid="uid://c3dtwwrqhbcyi"
+path="res://.godot/imported/Vigilant_of_Stendarr.png-9e6bc3feeb4ce1d2c7a66339e6bc115a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Textures/Cards/LG-card-Vigilant_of_Stendarr.png"
-dest_files=["res://.godot/imported/LG-card-Vigilant_of_Stendarr.png-0e384907471fe1a05adaef8ecc596638.ctex"]
+source_file="res://Textures/Cards/Vigilant_of_Stendarr.png"
+dest_files=["res://.godot/imported/Vigilant_of_Stendarr.png-9e6bc3feeb4ce1d2c7a66339e6bc115a.ctex"]
 
 [params]
 

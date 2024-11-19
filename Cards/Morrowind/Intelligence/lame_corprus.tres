@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="Card" load_steps=3 format=3 uid="uid://doc47fwvq8rkq"]
 
-[ext_resource type="Texture2D" uid="uid://bi5h6kjumgjb1" path="res://Textures/Cards/LG-card-Lame_Corprus.png" id="1_0hfvi"]
+[ext_resource type="Texture2D" uid="uid://cfcvudvxgyn6i" path="res://Textures/Cards/Lame_Corprus.png" id="1_n2g8p"]
 [ext_resource type="Script" path="res://Scripts/card_class.gd" id="1_x8cra"]
 
 [resource]
@@ -16,4 +16,4 @@ text = ""
 is_unique = false
 Rarity = 0
 Set = 2
-card_front = ExtResource("1_0hfvi")
+card_front = ExtResource("1_n2g8p")

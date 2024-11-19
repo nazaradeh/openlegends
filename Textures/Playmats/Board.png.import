@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b55y6ef4fr44f"
-path="res://.godot/imported/LG-playmat-Core.png-a15063e2bfb0e579e2c44ae19f713e6c.ctex"
+uid="uid://fufe1iklnd0i"
+path="res://.godot/imported/Board.png-a1f88685f81c53165d77411d2f5c7f96.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Textures/Playmats/LG-playmat-Core.png"
-dest_files=["res://.godot/imported/LG-playmat-Core.png-a15063e2bfb0e579e2c44ae19f713e6c.ctex"]
+source_file="res://Textures/Playmats/Board.png"
+dest_files=["res://.godot/imported/Board.png-a1f88685f81c53165d77411d2f5c7f96.ctex"]
 
 [params]
 

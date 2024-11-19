@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://c1qosj3m2tjb4"]
+
+[ext_resource type="Script" path="res://Scripts/card_scene.gd" id="1_uwdwl"]
+[ext_resource type="Resource" uid="uid://0qdrcdxpdfh6" path="res://Cards/Skyrim/Intelligence/vigilant_of_stendarr.tres" id="2_ppi1l"]
+
+[node name="CardScene" type="Node2D"]
+script = ExtResource("1_uwdwl")
+data = ExtResource("2_ppi1l")
+
+[node name="CardFront" type="TextureRect" parent="."]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2

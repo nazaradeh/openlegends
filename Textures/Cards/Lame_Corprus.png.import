@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b8dqitjnp2fe4"
-path="res://.godot/imported/LG-playmat-Alliance_War.jpg-eed6d1e5aab8709622132c9c5a71a576.ctex"
+uid="uid://cfcvudvxgyn6i"
+path="res://.godot/imported/Lame_Corprus.png-b6944c97579827981bb8a7b0ab3a2b83.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Textures/Playmats/LG-playmat-Alliance_War.jpg"
-dest_files=["res://.godot/imported/LG-playmat-Alliance_War.jpg-eed6d1e5aab8709622132c9c5a71a576.ctex"]
+source_file="res://Textures/Cards/Lame_Corprus.png"
+dest_files=["res://.godot/imported/Lame_Corprus.png-b6944c97579827981bb8a7b0ab3a2b83.ctex"]
 
 [params]
 
